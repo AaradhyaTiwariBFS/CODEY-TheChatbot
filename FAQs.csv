@@ -1,0 +1,22 @@
+firebase.database is not defined,"Go to your Project Settings in firebase -> Go to 'SDK setup and configuration' -> Choose CDN -> Select the code block mentioned under the comment ""Your web app's Firebase configuration"" -> Paste this in the <script> tag of index.html file"
+database is not defined,"Go to your Project Settings in firebase -> Go to 'SDK setup and configuration' -> Choose CDN -> Select the code block mentioned under the comment ""Your web app's Firebase configuration"" -> Paste this in the <script> tag of index.html file"
+Keyboard Shortcut to Open New browser window,Ctrl + N
+Keyboard Shortcut to Open a new window in incognito (private) mode,Ctrl + Shift + N
+Keyboard Shortcut to Print current page or frame,Ctrl + P
+Keyboard Shortcut to Refresh the current page or frame,Ctrl + R or F5
+Keyboard Shortcut to Zoom in or out of a page,Ctrl+(- or +)
+Keyboard Shortcut for full-screen mode,F11
+Keyboard Shortcut to Close the current tab,Ctrl+W
+Keyboard Shortcut to Open a new tab,Ctrl+T
+Keyboard Shortcut to Move through each of the open tabs going to the right,Ctrl+Tab
+Keyboard Shortcut to Move through each of the open tabs going to the left,Ctrl+Shift+Tab
+Keyboard Shortcut to Go to top of page,Home key
+Keyboard Shortcut to Go to bottom of page,End key
+Keyboard Shortcut to Move an object,Selct object -> Ctrl+C then in the destination Ctrl+V
+Keyboard Shortcut to Duplicate an object,Select object -> Ctrl+C then Ctrl+V
+Camera not working or cannot see the student,1) Go to Settings -> Open Camera Settings -> Turn ON usage for all apps. 2) Go to Device Manager -> Click on Camera -> Right Click on the camera option -> Select Disable device -> A dialog box will open here - Click on 'Unistall' the device but DO NOT CLICK ON DELETE THE DRIVER SOFTWARE FOR THIS DEVICE option. It may require a Restarting the PC to work. 3) Go to Device Manager -> Click on Camera -> Right Click on the camera option -> Select Update driver -> Choose Select automatically for updated driver software -----------if it still doesn't work then please raise a chat under the reason Technical issue with the tech team.
+student not audible or cannot hear the student,Right-click on the Speaker icon present in the Taskbar -> Select 'Sounds' -> Go to 'Recording' tab and choose the respective recording device for example Microphone -> Right-click on this device and select 'Properties' -> Go to 'Levels' Tab and adjust the levels for both Microphone and Microphone Boost -> Click on 'Apply' and then 'OK' in the 'Properties' dilog box -> Click on 'Apply' and then 'OK' in the 'Sound' dilog box ---------- if still not working then please raise a chat under Technical issues with the Tech Team
+there is disturbence in the audio from student's end,Right-click on the Speaker icon present in the Taskbar -> Select 'Sounds' -> Go to 'Recording' tab and choose the respective recording device for example Microphone -> Right-click on this device and select 'Properties' -> Go to 'Levels' Tab and adjust the levels for both Microphone and Microphone Boost -> Click on 'Apply' and then 'OK' in the 'Properties' dilog box -> Click on 'Apply' and then 'OK' in the 'Sound' dilog box ---------- if disturbence is still there then please raise a chat under Technical issues with the Tech Team
+Not able to share screen,Try clicking on the 'Present' icon given on student's video. Ask the student to confirm it and then narrate the steps one-by-one to share the screen and keep taking inputs from the student about what he can see on the screen. Make sure that student is not using an official laptop managed by some organization. Ask the student to Reconnect/Rejoin (Ask student to Rejoin from a different device if possible).
+student is getting disconnected repeatedly,Ask student to turn off cam and then Reconnect the session - turn off cams on both student's end and teacher's end.
+student is getting disconnected repeatedly even after good internet speed,Ask the student to Reconnect/Rejoin the session -> let student share his screen and then help them with troubleshooting steps to clear cache = Right click anywhere in the webpage -> Select Inspect -> Go to 'Network' tab and tick mark on 'Disable cache' -> Right click on 'Reload this page' icon present befor the URL bar in Web browser -> Click on 'Empty Cache and Hard Reload' --------- if the connection is still unstable then try turning off cams on both student's and teacher's end. If the issue still occurs then please raise a chat under Technical issues with the Tech Team
